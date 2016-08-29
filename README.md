@@ -1,1 +1,2 @@
 # gitSkills
+clone to edit
